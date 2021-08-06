@@ -74,7 +74,7 @@ p {
 .header-area {
   position: relative;
   height: 100vh;
-  background: #5bc0de;
+  background: #04f8c3;
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repear;
@@ -333,7 +333,7 @@ p {
   .container .pip::after{
         display:block;
         height:2px;
-        background-color:#22a6b3;
+        background-color:#04f8c3;
         content:"";
         width:10vw;
         margin:8px auto;
@@ -359,7 +359,7 @@ p {
  }
 }
  .loan-card:hover{
-     background-color: #22a6b3;
+     background-color: #04f8c3;
      
       transform: translateY(-18px);
        
@@ -376,6 +376,6 @@ p {
  .card-btn{
      width:3.5rem;
      
-     background: #22a6b3;
+     background: #04f8c3;
      color:white;
  }
